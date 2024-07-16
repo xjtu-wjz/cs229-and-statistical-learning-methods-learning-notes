@@ -1,2 +1,2 @@
-# cs229learning-notes
-personal learning notes for lesson cs229，maybe only cover part of the lecture.
+# cs229 and statistical learning methods learning-notes
+cs229与统计学习方法（徐航）的笔记，两门课一起看好一点。
